@@ -52,8 +52,6 @@ public class MainActivity extends AppCompatActivity {
                     double lng = data.getLongitude();
                 }
             }
-
-            ;
         };
 
 
